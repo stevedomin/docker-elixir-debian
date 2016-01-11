@@ -15,5 +15,7 @@ FROM stevedomin/elixir:latest
 
 ### Available versions
 
+* 1.2.0
+* 1.1.1
 * 1.0.5
 * 1.0.4
