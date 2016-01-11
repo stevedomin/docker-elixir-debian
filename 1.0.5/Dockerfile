@@ -1,4 +1,4 @@
-FROM stevedomin/erlang:18.0
+FROM stevedomin/erlang:18.2
 MAINTAINER Steve Domin <steve@stevedomin.com>
 
 RUN apt-get update && \
